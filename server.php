@@ -59,6 +59,10 @@ if (isset($_POST['reg_user']))
     {
       array_push($errors, "Username must be more then 3 characters");
     }
+
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+      array_push($errors, "Email is invalid");
+    }
   }
 
   function createSalt()
