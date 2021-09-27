@@ -22,7 +22,7 @@
   	  <input type="email" name="email" value="<?php echo $email; ?>">
   	</div>
    	<div class="input-group">
-  	  <label>NickName</label>
+  	  <label>Nickname</label>
   	  <input type="text" name="nickname" value="<?php echo $nickname; ?>">
   	</div>
   	<div class="input-group">
