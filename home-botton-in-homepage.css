@@ -1,27 +1,20 @@
-#Register, .topcorner {/*the form itself*/
+#home-botton-in-homepage, .topcorner {
   position:absolute;
   top:-15px;
   right:0px;
 
 }
-
-#BtnLogin {/*first button*/
+/*home botton right corner*/
+#home-botton-right-corner {
    font-size: 65px;
    height: 50px;
    width: 130px;
    margin-top: 0px;
    margin-left: 0px;
- }
 
- #BtnRegister {/*second button*/
-   font-size: 65px;
-   height: 50px;
-   width: 130px;
-   margin-top: 0px;
-   margin-left: 0px;
  }
-
- .Register-btn {/*Both Buttons code:border , background-image*/
+/*for home botton*/
+ .home-btn {
    cursor: pointer;
    border: 1px solid #000000;
    border-radius: 20px 20px 20px 20px;
@@ -30,6 +23,7 @@
    background-image: url("https://i.postimg.cc/1t25HQzS/12.png");
  }
 
- .Register-btn:hover {/*when the cursor is on the buttons*/
+/*when the cursor is on.home botton right corner */
+ .home-btn:hover {
    background-size: 120%;
  }

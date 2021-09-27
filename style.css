@@ -1,10 +1,10 @@
 body {
    background-repeat: no-repeat;
    background-size: cover;
-  /* Background pattern from Toptal Subtle Patterns */
+  /* Background for login and register page */
    background-image: url("https://cdn.wallpapersafari.com/20/19/suWXKn.jpg");
 }
-
+/* top head for the register form) on the login and register page */
 .header {
   width: 33%;
   height: 40px;
@@ -21,6 +21,7 @@ body {
   background-image: url("https://gifspro.com/wp-content/uploads/2017/12/GifsPro-id3600387-Christmas-gifs-of-Little-house-in-snowy-hills.gif");
 }
 
+/* register form on the (login and register page) */
 #regular, .content {
   width: 30%;
   margin: 0px auto;
@@ -35,13 +36,13 @@ body {
 .input-group {
   margin: 10px 0px 10px 0px;
 }
-
+/* register form on the (login and register page)(the lower form area) */
 .input-group label {
   display: block;
   text-align: left;
   margin: 1px;
 }
-
+/* register form on the (login and register page)(the white lines for fill the form) */
 .input-group input {
   height: 30px;
   width: 93%;
@@ -51,6 +52,8 @@ body {
   border: 1px solid gray;
 }
 
+
+/* design the (login and register bottons on the login and register page) */
 .btn {
   padding: 10px;
   font-size: 15px;

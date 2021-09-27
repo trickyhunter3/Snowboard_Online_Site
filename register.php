@@ -4,9 +4,13 @@
 <head>
   <title>Snowboard Online</title>
   <link rel="stylesheet" type="text/css" href="style.css">
-  <link rel="stylesheet" type="text/css" href="style-download.css">
+  <link rel="stylesheet" type="text/css" href="downloads-left-corenr-in-register-and-login-and-home-pages.css">
+  <link rel="stylesheet" type="text/css" href="home-botton-in-homepage.css">
 </head>
 <body>
+
+
+
   <div class="header">
   	<h2>Snowboard Online Register</h2>
   </div>
@@ -36,23 +40,34 @@
   	<p>
   		Snowboard Online
   	</p>
-  </form>
+    </form>
 
-<form id="downloads" method="post">
-  <div class="box">
+
+
+
+    <form id="home-botton-in-homepage" method="post">
+    <input id="home-botton-right-corner" class="home-btn" onclick="location.href='home.php';" value="    "/>
+    </form>
+
+
+
+
+    <form id="downloads-left-corenr-in-register-and-login-and-home-pages" method="post">
+    <div class="box">
     <input id="btnDownload1" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
     <br>
     <input id="btnDownload2" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
 
-    <p id="text-download1">
-    Mega
-    </p>
 
-    <p id="text-download2">
-    Torrent
-    </p>
 
-  </div>
-</form>
-</body>
-</html>
+
+
+    <p id="text-download1">Mega</p>
+    <p id="text-download2">Torrent</p>
+
+
+
+    </div>
+    </form>
+    </body>
+    </html>

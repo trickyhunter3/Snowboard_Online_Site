@@ -1,4 +1,5 @@
-#downloads, .topcorner {/*the form itself*/
+/*only the box=left corner in (register and login page)*/
+#downloads-left-corenr-in-register-and-login-and-home-pages, .topcorner {
   position:absolute;
   top: -45px;
   left: 10px;
@@ -11,31 +12,31 @@
   background-size: cover;
   background-image: url("https://img.freepik.com/free-photo/3d-render-snowy-christmas-landscape_1048-13425.jpg?size=626&ext=jpg&ga=GA1.2.1591904653.1622073600");
 }
-
-#btnDownload1 {/*first button*/
+/*first botton left corner on register and login page*/
+#btnDownload1 {
   width: 300px;
   font-size: 65px;
   height: 135px;
   margin-top: -50px;
   margin-left: -96px;
 }
-
-#btnDownload2 {/*second button*/
+/*scound botton left corner on register and login page*/
+#btnDownload2 {
   width: 300px;
   font-size: 65px;
   height: 135px;
   margin-top: 20px;
   margin-left: -96px;
 }
-
-#text-download1 {/*Mega link text*/
+/*Mega link text left corner on register and login page*/
+#text-download1 {
   color: gray;
   margin-left: 25px;
   margin-top: -275px;
   font-size: 20px;
 }
-
-#text-download2 {/*Torrent link text*/
+/*Torrent link text left corner on register and login page*/
+#text-download2 {
   color: green;
   margin-left: 20px;
   margin-top: 133px;
@@ -43,8 +44,8 @@
   width: 350px;
   word-break: break-all;
 }
-
-.download-btn {/*Both Buttons code:border , background-image*/
+/*Both Buttons border background-image in left corner on the register and login page*/
+.download-btn {
   border: 1px solid #000000;
   border-radius: 40px 40px 40px 40px;
   background-size: 110%;
@@ -52,6 +53,6 @@
   background-image: url("https://i.postimg.cc/1t25HQzS/12.png");
 }
 
-.download-btn:hover {/*when the cursor is on the buttons*/
+.download-btn:hover {/*when the cursor is on the buttons in left corner on the register and login page*/
   background-size: 120%;
 }
