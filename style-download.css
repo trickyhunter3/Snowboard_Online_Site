@@ -27,14 +27,14 @@
 }
 
 #text-download1 {/*Mega link text*/
-  color: black;
+  color: gray;
   margin-left: 25px;
   margin-top: -275px;
   font-size: 20px;
 }
 
 #text-download2 {/*Torrent link text*/
-  color: black;
+  color: green;
   margin-left: 20px;
   margin-top: 133px;
   font-size: 20px;

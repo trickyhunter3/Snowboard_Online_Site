@@ -30,8 +30,8 @@
   	  <input type="password" name="password">
   	</div>
   	<div class="input-group">
-      <button type="submit" class="btn" name="reg_user">Sign Up</button>
-  	  <button type="button" class="btn" onclick="location.href='login.php';">Login</button>
+      <button type="submit" class="btn" style="cursor: pointer" name="reg_user">Sign Up</button>
+  	  <button type="button" class="btn" style="cursor: pointer" onclick="location.href='login.php';">Login</button>
   	</div>
   	<p>
   		Snowboard Online
@@ -40,9 +40,9 @@
 
 <form id="downloads" method="post">
   <div class="box">
-    <input id="btnDownload1" class="download-btn" type="button" onclick="location.href='https://google.com';" value="                " />
+    <input id="btnDownload1" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
     <br>
-    <input id="btnDownload2" class="download-btn" type="button" onclick="location.href='https://google.com';" value="                " />
+    <input id="btnDownload2" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
 
     <p id="text-download1">
     Mega
