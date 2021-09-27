@@ -2,47 +2,37 @@
   <!DOCTYPE html>
   <html>
   <head>
-  <body>
-
-
 	<title>Home Snoabord Online</title>
-	<link rel="stylesheet" type="text/css" href="style-home.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" type="text/css" href="register-link.css">
+	<link rel="stylesheet" type="text/css" href="style-download.css">
   </head>
+<body>
+
+  <form id="Register" method="post">
+  <input id="BtnLogin" class="Register-btn" onclick="location.href='Login.php';" value="    "/>
+  <input id="BtnRegister" class="Register-btn" onclick="location.href='Register.php';" value="    "/>
+
+  </div>
+  </form>
 
 
-<form id="downloads2" method="post">
-<input id="btnDownload4" class="download-btn2" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
-<br>
-<input id="btnDownload5" class="download-btn2" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
-<p id="text-download5">
-Megaupload
-</p>
-<p id="text-download6">
-uTorrent
-</p>
-</div>
+<form id="downloads" method="post">
+  <div class="box">
+    <input id="btnDownload1" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
+    <br>
+    <input id="btnDownload2" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
+
+    <p id="text-download1">
+    Mega
+    </p>
+
+    <p id="text-download2">
+    Torrent
+    </p>
+
+  </div>
 </form>
-
-
-
-
-<form id="downloads3" method="post">
-<input id="btnDownload5" class="download-btn3" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
-<br>
-<input id="btnDownload6" class="download-btn3" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
-<p id="text-download7">
-Megaupload
-</p>
-<p id="text-download8">
-uTorrent
-</p>
-</div>
-</form>
-
-
-
-
 
 </body>
 </html>

@@ -32,9 +32,9 @@
 
   <form id="downloads" method="post">
     <div class="box">
-      <input id="btnDownload1" class="download-btn" style="cursor: pointer" type="button" onclick="location.href='https://google.com';" value="                " />
+      <input id="btnDownload1" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
       <br>
-      <input id="btnDownload2" class="download-btn" style="cursor: pointer" type="button" onclick="location.href='https://google.com';" value="                " />
+      <input id="btnDownload2" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
 
       <p id="text-download1">
       Mega
