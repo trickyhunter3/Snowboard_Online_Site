@@ -4,7 +4,7 @@
   left: 10px;
 
   height: 535px;
-  width: 300px;
+  width: 310px;
 
   border-radius: 10px 10px 10px 10px;
   border: 1px solid black;
@@ -13,6 +13,7 @@
 }
 
 #btnDownload1 {/*first button*/
+  width: 300px;
   font-size: 65px;
   height: 135px;
   margin-top: -50px;
@@ -20,6 +21,7 @@
 }
 
 #btnDownload2 {/*second button*/
+  width: 300px;
   font-size: 65px;
   height: 135px;
   margin-top: 20px;
