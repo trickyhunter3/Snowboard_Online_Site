@@ -12,6 +12,7 @@
    width: 130px;
    margin-top: 0px;
    margin-left: 0px;
+   background-image: url("https://i.ibb.co/4gBtN39/LOGIN.png");
  }
 /*register botton in home page on the right corner*/
  #right-corner-Register {
@@ -20,15 +21,16 @@
    width: 130px;
    margin-top: 0px;
    margin-left: 0px;
+background-image: url("https://i.ibb.co/YRRCczM/REGISTER.png");
  }
 /*login and register border background-image in the right corner on home page*/
  .Register-btn {
    cursor: pointer;
-   border: 1px solid #000000;
+   border: 1px solid white;
    border-radius: 20px 20px 20px 20px;
    background-size: 110%;
    background-position: center;
-   background-image: url("https://i.postimg.cc/1t25HQzS/12.png");
+
  }
 
 /*when the cursor is on. the login and register botton in right corner on home page */

@@ -1,9 +1,11 @@
 body {
    background-repeat: no-repeat;
    background-size: cover;
+   overflow: hidden;
   /* Background for login and register page */
    background-image: url("https://cdn.wallpapersafari.com/20/19/suWXKn.jpg");
 }
+
 /* top head for the register form) on the login and register page */
 .header {
   width: 33%;

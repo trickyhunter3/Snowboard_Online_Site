@@ -16,11 +16,11 @@
 /*for home botton*/
  .home-btn {
    cursor: pointer;
-   border: 1px solid #000000;
+   border: 1px solid white;
    border-radius: 20px 20px 20px 20px;
    background-size: 110%;
    background-position: center;
-   background-image: url("https://i.postimg.cc/1t25HQzS/12.png");
+   background-image: url("https://i.ibb.co/wCfpLnh/121212.png");
  }
 
 /*when the cursor is on.home botton right corner */

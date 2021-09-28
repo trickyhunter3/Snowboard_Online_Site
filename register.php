@@ -61,9 +61,8 @@
 
 
 
+     <p id="text-download1"><br></p>
 
-    <p id="text-download1">Mega</p>
-    <p id="text-download2">Torrent</p>
 
 
 

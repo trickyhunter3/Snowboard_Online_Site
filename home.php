@@ -37,8 +37,34 @@
 
 
 
-    <p id="text-download1">Mega</p>
-    <p id="text-download2">Torrent</p>
+
+    <form id="downloads-left-corenr-in-register-and-login-and-home-pages" method="post">
+    <div class="box">
+    <input id="lines-left-corner" class="download-btn" type="button"/>
+    <br>
+
+    <form id="downloads-left-corenr-in-register-and-login-and-home-pages" method="post">
+    <div class="box">
+    <input id="lines-left-corner2" class="download-btn" type="button"/>
+    <br>
+
+
+    <form id="downloads-left-corenr-in-register-and-login-and-home-pages" method="post">
+    <div class="box">
+    <input id="logo-website" class="download-btn" type="button"/>
+    <br>
+
+    <form id="downloads-left-corenr-in-register-and-login-and-home-pages" method="post">
+    <div class="box">
+    <input id="shine-dot-right-corner" type="button" class="download-btn"/>
+    <br>
+
+
+
+
+
+
+
 
 
 
