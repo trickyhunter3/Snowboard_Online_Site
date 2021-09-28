@@ -4,7 +4,6 @@
 <head>
   <title>Snowboard Online</title>
   <link rel="stylesheet" type="text/css" href="style.css">
-  <link rel="stylesheet" type="text/css" href="downloads-left-corenr-in-register-and-login-and-home-pages.css">
   <link rel="stylesheet" type="text/css" href="home-botton-in-homepage.css">
 </head>
 <body>
@@ -52,21 +51,5 @@
 
 
 
-    <form id="downloads-left-corenr-in-register-and-login-and-home-pages" method="post">
-    <div class="box">
-    <input id="btnDownload1" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
-    <br>
-    <input id="btnDownload2" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
-
-
-
-
-     <p id="text-download1"><br></p>
-
-
-
-
-    </div>
-    </form>
     </body>
     </html>
