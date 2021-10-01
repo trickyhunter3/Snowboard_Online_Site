@@ -6,6 +6,7 @@
 #downloads-left-corenr-in-register-and-login-and-home-pages, .topcorner {
   position:absolute;
   top: -45px;
+  margin-top: -20px;
   left: 10px;
 
   height: 950px;
@@ -23,7 +24,7 @@
   width: 300px;
   font-size: 65px;
   height: 135px;
-  margin-top: -50px;
+  margin-top: -30px;
   margin-left: -96px;
     background-image: url("https://i.ibb.co/mtC7JY6/DOWNLOAD3.png");
 }
@@ -32,7 +33,7 @@
   width: 300px;
   font-size: 65px;
   height: 135px;
-  margin-top: 20px;
+  margin-top: 15px;
   margin-left: -96px;
     background-image: url("https://i.ibb.co/f8g5Rjn/DOWNLOAD4.png");
 }
@@ -65,9 +66,9 @@
   background-size: 120%;
 }
 #lines-left-corner {
-width: 311px;
+width: 309px;
 height: 50px;
-margin-top: -10px;
+margin-top: -25px;
 margin-left: -200px;
 border-radius: 0px 0px 0px 0px;
 border: 1px solid black;
@@ -76,20 +77,10 @@ background-image: url("https://i.ibb.co/3cNhv2X/4.jpg");
 #lines-left-corner2 {
 width: 320px;
 height: 65px;
-margin-top: 307px;
+margin-top: 300px;
 margin-left: -306px;
 border-radius: 10px 10px 40px 40px;
 background-image: url("https://i.ibb.co/3cNhv2X/4.jpg");
-}
-#logo-website {
-position:absolute;
-width: 1920px;
-height: 240px;
-margin-top: -90px;
-margin-left: -411px;
-border-radius: 15px 15px 0px 0px;
-border: 1px solid white;
-background-image: url("https://i.ibb.co/FWYDQzT/xxx.jpg");
 }
 #shine-dot-right-corner {
 position:absolute;
