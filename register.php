@@ -10,7 +10,7 @@
 
 
 
-  <div class="header">
+  <div class="head">
   	<h2>Snowboard Online Register</h2>
   </div>
 
