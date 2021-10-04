@@ -6,7 +6,6 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" type="text/css" href="register-and-login-link-right-corner.css">
   <link rel="stylesheet" type="text/css" href="downloads-left-corenr-in-register-and-login-and-home-pages.css">
-  <link rel="stylesheet" href="stylee.css">
 
 
 
@@ -16,7 +15,6 @@
 
 
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="stylee.css">
 
   <link rel="apple-touch-icon" type="image/png" href="https://i.ibb.co/0hQwGXt/Tricks-quest-guides-image.png">
   <meta name="apple-mobile-web-app-title" content="CodePen">
@@ -179,7 +177,7 @@
 
 
 
-<body>
+<body id="bbody">
 <div class="marquee">
   <ul class="marquee-content">
     <li><i class="fab fa-github"></i></li>
@@ -207,8 +205,6 @@
   for(let i=0; i<marqueeElementsDisplayed; i++) {
     marqueeContent.appendChild(marqueeContent.children[i].cloneNode(true));
   }
-
-
 </script>
 
 

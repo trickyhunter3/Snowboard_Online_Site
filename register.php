@@ -6,7 +6,7 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" type="text/css" href="home-botton-in-homepage.css">
 </head>
-<body>
+<body id="bbody">
 
 
 
