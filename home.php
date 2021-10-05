@@ -3,7 +3,7 @@
   <html>
   <head>
 	<title>Home Snoabord Online</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="home.css">
   <link rel="stylesheet" type="text/css" href="register-and-login-link-right-corner.css">
   <link rel="stylesheet" type="text/css" href="downloads-left-corenr-in-register-and-login-and-home-pages.css">
 
@@ -44,7 +44,7 @@
             padding: 0;
             box-sizing: border-box;
           }
-          body {
+          #a1 {
 
 
             font-family: 'Montserrat', sans-serif;
@@ -177,7 +177,7 @@
 
 
 
-<body id="bbody">
+<body id="a1">
 <div class="marquee">
   <ul class="marquee-content">
     <li><i class="fab fa-github"></i></li>

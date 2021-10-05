@@ -3,18 +3,20 @@
 <html>
 <head>
   <title>Snowboard Online</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <link rel="stylesheet" type="text/css" href="downloads-left-corenr-in-register-and-login-and-home-pages.css">
-  <link rel="stylesheet" type="text/css" href="home-botton-in-homepage.css">
-  <meta charset="UTF-8">
 
+
+  <link rel="stylesheet" type="text/css" href="home-botton-in-homepage.css">
+    <link rel="stylesheet" type="text/css" href="login.css">
+
+
+
+
+
+  <meta charset="UTF-8">
   <link rel="apple-touch-icon" type="image/png" href="https://i.ibb.co/0hQwGXt/Tricks-quest-guides-image.png">
   <meta name="apple-mobile-web-app-title" content="CodePen">
-
   <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/0hQwGXt/Tricks-quest-guides-image.png">
-
   <link rel="mask-icon" type="" href="https://i.ibb.co/0hQwGXt/Tricks-quest-guides-image.png" color="#111">
-
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css">
 
 
@@ -41,7 +43,7 @@
             background-color: #eee;
             color: #111;
             height: 0vh;
-            margin-top: 637px;
+            margin-top: 493px;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -137,11 +139,24 @@
   </script>
 
 
-  </head>
-  <body id="bbody">
 
-    <main id="bbody">
-      <div class="head">
+
+
+
+
+
+
+
+
+
+  </head>
+
+
+
+  <body id="loginnn">
+
+
+      <div class="header">
       <h2>Login</h2>
       </div>
       <form id="regular" method="post" action="login.php">
@@ -163,18 +178,27 @@
      </form>
 
 
+
+
+
+
+
+
+
+
     <form id="home-botton-in-homepage" method="post">
     <input id="home-botton-right-corner" class="home-btn" onclick="location.href='home.php';" value="    "/>
     </form>
 
-    <form id="downloads-left-corenr-in-register-and-login-and-home-pages" method="post">
-    <div class="box">
-    <input id="btnDownload1" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
-    <br>
-    <input id="btnDownload2" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
-    </div>
-    </form>
-</main>
+
+
+
+
+
+
+
+
+
 
 
 

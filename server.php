@@ -83,7 +83,7 @@ if (isset($_POST['reg_user']))
   			  VALUES('$username', '$email', '$nickname', '$password', '$salt')";
   	mysqli_query($db, $query);
   	$_SESSION['name'] = $username;
-  	$_SESSION['success'] = "You are now logged in";
+  	$_SESSION['success'] = "You are now logged in successfully. in this page you have access to download snowboard online from this page at the left corner, if you have any question please contact us. we wishing you much pleasure (gamesnow tr)";
   	header('location: index.php');
 
   }
@@ -132,7 +132,7 @@ if (isset($_POST['login_user']))
     if ($password == $user['passwd'])
     {
   	  $_SESSION['username'] = $username;
-  	  $_SESSION['success'] = "You are now logged in";
+  	  $_SESSION['success'] = "You are now logged in successfully. in this page you have access to download snowboard online from this page at the left corner, if you have any question please contact us. we wishing you much pleasure (gamesnow team)";
   	  header('location: index.php');
   	}
     else

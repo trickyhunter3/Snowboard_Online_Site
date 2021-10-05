@@ -1,4 +1,4 @@
-#bbody {
+#loginnn {
    background-repeat: no-repeat;
    overflow: hidden;
   /* Background for login and register page */
@@ -6,19 +6,19 @@
 }
 
 /* top head for the register form) on the login and register page */
-.head {
+.header {
   width: 33%;
-  height: 40px;
-  margin: -25px auto 0px;
+
+  margin: -30px auto 0px;
   color: white;
-  text-align: center;
   border: 1px solid #000000;
   border-bottom: none;
   border-radius: 30px 30px 30px 30px;
-  padding: 40px;
+  padding: 60px;
   font-size: 20px;
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
   background-image: url("https://gifspro.com/wp-content/uploads/2017/12/GifsPro-id3600387-Christmas-gifs-of-Little-house-in-snowy-hills.gif");
 }
 
@@ -26,7 +26,7 @@
 #regular, .content {
   width: 30%;
   margin: 0px auto;
-  padding: 20px;
+  padding: 40px;
   border: 1px solid #000000;
   border-radius: 0px 0px 10px 10px;
   background-size: 110%;
@@ -45,8 +45,8 @@
 }
 /* register form on the (login and register page)(the white lines for fill the form) */
 .input-group input {
-  height: 30px;
-  width: 93%;
+  height: 40px;
+  width: 101%;
   padding: 5px 20px;
   font-size: 18px;
   border-radius: 5px;
