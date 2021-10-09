@@ -1,9 +1,17 @@
 body {
    background-repeat: no-repeat;
+   position:absolute;
    overflow: hidden;
+   overflow-y: scroll;
+
   /* Background for login and register page */
-   background-image: url("https://i.ibb.co/pb20zCK/test2.jpg");
+   background-image: url("https://i.ibb.co/1G7rY0T/done-Changedlogo.jpg");
 }
+::-webkit-scrollbar {
+  display: none;
+
+}
+
 
 
 /* register form on the (login and register page) */
@@ -22,3 +30,238 @@ body {
   height: 150px;
   padding: 100px;
 }
+/*the form active for the bottons(login and register) in the right corner on the home page*/
+#register-and-login-link-right-corner, .topcorner {
+  position:absolute;
+  top:-15px;
+  right:0px;
+
+}
+/*login botton in home page on the right corner*/
+#right-corner-Login {
+   font-size: 65px;
+   height: 50px;
+   width: 130px;
+   margin-top: 0px;
+   margin-left: 0px;
+   background-image: url("https://i.ibb.co/4gBtN39/LOGIN.png");
+ }
+/*register botton in home page on the right corner*/
+ #right-corner-Register {
+   font-size: 65px;
+   height: 50px;
+   width: 130px;
+   margin-top: 0px;
+   margin-left: 0px;
+background-image: url("https://i.ibb.co/YRRCczM/REGISTER.png");
+ }
+/*login and register border background-image in the right corner on home page*/
+ .Register-btn {
+   cursor: pointer;
+   border: 1px solid white;
+   border-radius: 20px 20px 20px 20px;
+   background-size: 110%;
+   background-position: center;
+
+ }
+
+/*when the cursor is on. the login and register botton in right corner on home page */
+ .Register-btn:hover {
+   background-size: 120%;
+ }
+
+
+
+
+  /*Both Buttons border background-image in left corner on the register and login page*/
+  .download-btn222 {
+    border: 1px solid black;
+    border-radius: 40px 40px 40px 40px;
+    background-size: 110%;
+    background-position: center;
+
+  }
+
+  .download-btn222:hover {/*when the cursor is on the buttons in left corner on the register and login page*/
+    background-size: 120%;
+  }
+  #background-transperent {
+ position:absolute;
+  width: 1920px;
+  height: 777px;
+  margin-top: 1242px;
+  margin-left: -0px;
+  border-radius: 0px 0px 0px 0px;
+  border: 2px solid black;
+     background-image: url("https://i.ibb.co/b2GHhmP/image-background.jpg");
+     opacity: 0;
+
+  }
+  #black-gallery-head {
+    position:absolute;
+     width: 883px;
+     height: 70px;
+     margin-top: 1150px;
+     margin-left: -90px;
+     border-radius: 40px 40px 0px 0px;
+     border: 2px solid black;
+     border-bottom-color: white;
+     border-bottom: none;
+     background-image: url("https://cdn.wallpapersafari.com/28/37/6aryTh.jpg");
+  }
+
+  .box222 {
+    width: 200px;
+    height: 150px;
+    padding: 100px;
+  }
+
+  #picture1 {
+   position:absolute;
+  width: 280px;
+  height: 200px;
+  margin-top: 600px;
+  margin-left: 30px;
+  border-radius: 0px 0px 0px 40px;
+  border: 3px solid black;
+  opacity: 0.8;
+     background-image: url("https://i.ibb.co/KVgNkFR/1111.jpg");
+  }
+
+    #picture2 {
+   position:absolute;
+    width: 280px;
+    height: 200px;
+    margin-top: 600px;
+    margin-left: 330px;
+    border-radius: 0px 0px 0px 0px;
+  border: 3px solid black;
+      opacity: 0.8;
+     background-image: url("https://i.ibb.co/R6PMK1k/2222.jpg");
+    }
+    #picture3 {
+   position:absolute;
+    width: 280px;
+    height: 200px;
+    margin-top: 600px;
+    margin-left: 630px;
+    border-radius: 0px 0px 40px 0px;
+  border: 3px solid black;
+      opacity: 0.8;
+     background-image: url("https://i.ibb.co/SBRfMHC/3333.jpg");
+    }
+    #picture4 {
+   position:absolute;
+    width: 280px;
+    height: 200px;
+    margin-top: 380px;
+    margin-left: 30px;
+    border-radius: 0px 0px 0px 0px;
+  border: 3px solid black;
+      opacity: 0.8;
+     background-image: url("https://i.ibb.co/SfzVyFd/4444.jpg");
+    }
+    #picture5 {
+   position:absolute;
+    width: 280px;
+    height: 200px;
+    margin-top: 380px;
+    margin-left: 330px;
+    border-radius: 0px 0px 0px 0px;
+  border: 3px solid black;
+      opacity: 0.8;
+     background-image: url("https://i.ibb.co/BKCK7yM/5555.jpg");
+    }
+    #picture6 {
+   position:absolute;
+    width: 280px;
+    height: 200px;
+    margin-top: 380px;
+    margin-left: 630px;
+    border-radius: 0px 0px 0px 0px;
+  border: 3px solid black;
+      opacity: 0.8;
+     background-image: url("https://i.ibb.co/qDjWsft/6666.jpg");
+    }
+    #picture7 {
+   position:absolute;
+    width: 280px;
+    height: 200px;
+    margin-top: 165px;
+    margin-left: 30px;
+    border-radius: 0px 0px 0px 0px;
+    border: 3px solid black;
+     background-image: url("https://i.ibb.co/hgnKpx0/7.gif");
+    }
+    #picture8 {
+   position:absolute;
+    width: 280px;
+    height: 200px;
+    margin-top: 165px;
+    margin-left: 330px;
+    border-radius: 0px 0px 0px 0px;
+    border: 3px solid black;
+     background-image: url("https://i.ibb.co/g4zZ2DV/8.gif");
+    }
+    #picture9 {
+   position:absolute;
+    width: 280px;
+    height: 200px;
+    margin-top: 165px;
+    margin-left: 630px;
+    border-radius: 0px 0px 0px 0px;
+    border: 3px solid black;
+     background-image: url("https://i.ibb.co/P48cwWc/9.gif");
+    }
+    #movie {
+   position:absolute;
+    width: 600px;
+    height: 449px;
+    margin-top: -800px;
+    margin-left: 50px;
+    border-radius: 20px 20px 0px 0px;
+    border: 3px solid white;
+     background-image: url("https://cloud-ex42.usaupload.com/53ov/movie-done.gif?download_token=9bf604209696c0362d7dddaf2d34e35e6630b952821ed5dc62dba2099c5c1277");
+    }
+    #movie-box {
+   position:absolute;
+    width: 670px;
+    height: 720px;
+    margin-top: -820px;
+    margin-left: 16px;
+    border-radius: 20px 20px 0px 0px;
+    border: 3px solid white;
+      opacity: 0.9;
+     background-image: url("https://t4.ftcdn.net/jpg/02/86/37/57/360_F_286375793_tMNCezCxZVJMzXVlunBoKI1JWP72cE9L.jpg");
+    }
+    #movie-icon {
+   position:absolute;
+    width: 48px;
+    height: 48px;
+    margin-top: -160px;
+    margin-left: 627px;
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid black;
+    opacity: 0.8;
+     background-image: url("https://gcdn.pbrd.co/images/YTyMZlX4w7F4.jpg?o=1");
+    }
+    #black-gallery-head {
+   position:absolute;
+    width: 886px;
+    height: 80px;
+    margin-top: 70px;
+    margin-left: 30px;
+    border: 5px solid black;
+      font-size: 60px;
+
+    }
+    #downpage-background {
+   position:absolute;
+    width: 1920px;
+    height: 800px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px 0px 0px 0px;
+    border: 3px solid black;
+     background-image: url("https://wallpaperforu.com/wp-content/uploads/2020/09/black-wallpaper-2009151423523.jpg");
+    }

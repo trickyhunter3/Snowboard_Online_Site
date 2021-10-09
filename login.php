@@ -5,7 +5,7 @@
   <title>Snowboard Online</title>
 
 
-  <link rel="stylesheet" type="text/css" href="home-botton-in-homepage.css">
+
     <link rel="stylesheet" type="text/css" href="login.css">
 
 
@@ -186,7 +186,7 @@
 
 
 
-    <form id="home-botton-in-homepage" method="post">
+    <form id="home-botton-in-login" method="post">
     <input id="home-botton-right-corner" class="home-btn" onclick="location.href='home.php';" value="    "/>
     </form>
 

@@ -229,7 +229,27 @@
 
 
 
+<form id="home-botton-in-index" method="post">
+<input id="home-botton-right-corner" class="home-btn" onclick="location.href='home.php';" value="    "/>
+</form>
 
+<form id="downloads-left-corenr-in-indexx" method="post">
+<div class="box">
+<input id="btnDownload1" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
+<br>
+<input id="btnDownload2" class="download-btn" type="button" style="cursor: pointer" onclick="location.href='https://google.com';" value="                " />
+
+
+
+<form id="downloads-left-corenr-in-indexx" method="post">
+<div class="box">
+<input id="lines-left-corner" class="download-btn" type="button"/>
+<br>
+
+<form id="downloads-left-corenr-in-indexx" method="post">
+<div class="box">
+<input id="lines-left-corner2" class="download-btn" type="button"/>
+<br>
 
 
 
